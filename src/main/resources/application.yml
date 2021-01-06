@@ -13,7 +13,7 @@ spring:
         login-username: admin
         login-password: 123456
     name: defaultDataSource
-    url: jdbc:mysql://127.0.0.1:3306/test?serverTimezone=GMT%2B8
+    url: jdbc:mysql://www.kanade.cn:3306/test?serverTimezone=GMT%2B8
     username: root
     password: root
   flyway:
