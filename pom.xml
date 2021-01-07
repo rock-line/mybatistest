@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <image.version>0.0.1-SNAPSHOT</image.version>
+        <image.version>latest</image.version>
     </properties>
 
     <dependencies>
